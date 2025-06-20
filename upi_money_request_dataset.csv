@@ -1,0 +1,201 @@
+Requester_Organisation,Amount_Demanded,Demand_Time,Warning_Prior,User_Avg_Monthly_Transaction,Prev_Txns_With_Requester,Reason,Request_Message,Fraud_Request
+Official Bank,15594,11:07,No,4254,0,Loan repayment,Monthly loan installment pending. Kindly send the amount.,No
+Official Bank,17861,13:22,No,8730,3,Contest reward verification,You've won! Pay verification fee to claim reward.,No
+Random Name,1804,17:39,No,9939,1,Verification fee,Complete verification by accepting this request.,No
+Unknown Name,4640,21:52,Yes,9139,0,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Random Name,536,16:49,No,6271,1,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Official Bank,9456,10:32,Yes,7681,5,Insurance payment,Reminder: Insurance premium due today.,No
+Unknown Name,13413,18:19,Yes,3737,0,Insurance payment,Reminder: Insurance premium due today.,Yes
+Random Name,2145,20:32,Yes,4135,0,Verification fee,Complete verification by accepting this request.,No
+Unknown Name,4700,16:23,Yes,6125,1,Refund of failed transaction,You are eligible for a refund. Please accept the request.,No
+Unknown Name,11568,22:46,No,1801,0,Loan repayment,Monthly loan installment pending. Kindly send the amount.,Yes
+Random Name,19421,21:58,Yes,3680,1,Contest reward verification,You've won! Pay verification fee to claim reward.,Yes
+Official Bank,13655,11:01,Yes,4868,0,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Official Bank,16856,13:55,No,8584,1,Contest reward verification,You've won! Pay verification fee to claim reward.,No
+Random Name,12427,18:47,No,6118,1,Verification fee,Complete verification by accepting this request.,Yes
+Official Bank,15351,10:49,Yes,2159,1,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+UPI App Support,18187,12:42,No,905,5,Contest reward verification,You've won! Pay verification fee to claim reward.,No
+Official Bank,1695,11:17,Yes,6579,5,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Random Name,16595,21:06,Yes,9698,0,Refund of failed transaction,You are eligible for a refund. Please accept the request.,Yes
+Unknown Name,4987,16:20,Yes,7336,1,Verification fee,Complete verification by accepting this request.,No
+Government Org,1010,10:30,Yes,581,5,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Random Name,17108,19:16,No,3966,0,Loan repayment,Monthly loan installment pending. Kindly send the amount.,Yes
+Unknown Name,7694,19:41,Yes,6482,1,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,Yes
+Random Name,4036,16:54,Yes,1678,1,Insurance payment,Reminder: Insurance premium due today.,Yes
+Official Bank,17050,13:57,No,3017,0,Urgent help needed,"Please send money urgently, it's an emergency.",No
+Unknown Name,3638,22:13,No,7100,1,Subscription renewal,Renew your subscription to continue services.,No
+Government Org,9600,10:51,No,7644,5,Verification fee,Complete verification by accepting this request.,No
+Official Bank,14179,12:10,Yes,3667,1,Urgent help needed,"Please send money urgently, it's an emergency.",No
+Unknown Name,17305,22:11,No,635,1,Subscription renewal,Renew your subscription to continue services.,Yes
+Random Name,8270,21:31,No,6649,1,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,Yes
+Official Bank,9228,13:30,Yes,683,0,Urgent help needed,"Please send money urgently, it's an emergency.",No
+UPI App Support,10857,11:16,Yes,4114,4,Refund of failed transaction,You are eligible for a refund. Please accept the request.,No
+Official Bank,80,13:05,No,6460,3,Subscription renewal,Renew your subscription to continue services.,No
+Official Bank,17083,11:49,Yes,946,2,Insurance payment,Reminder: Insurance premium due today.,No
+Random Name,13255,21:39,No,4604,0,Urgent help needed,"Please send money urgently, it's an emergency.",Yes
+Government Org,17028,12:36,No,6445,0,Subscription renewal,Renew your subscription to continue services.,No
+Random Name,8742,21:42,Yes,1157,1,Verification fee,Complete verification by accepting this request.,Yes
+Official Bank,12303,13:40,No,3090,3,Subscription renewal,Renew your subscription to continue services.,No
+Random Name,6663,16:32,Yes,3243,1,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,Yes
+Random Name,5557,21:07,No,4818,0,Subscription renewal,Renew your subscription to continue services.,Yes
+Official Bank,9023,11:45,Yes,6317,3,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Official Bank,11045,13:47,No,9368,2,Insurance payment,Reminder: Insurance premium due today.,No
+Random Name,19063,16:58,Yes,9875,0,Contest reward verification,You've won! Pay verification fee to claim reward.,Yes
+Unknown Name,12974,22:41,Yes,6275,1,Subscription renewal,Renew your subscription to continue services.,Yes
+Random Name,998,19:43,Yes,8815,0,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Official Bank,1262,13:49,No,8198,1,Subscription renewal,Renew your subscription to continue services.,No
+Official Bank,11111,10:33,Yes,6107,1,Loan repayment,Monthly loan installment pending. Kindly send the amount.,No
+Official Bank,19878,13:16,Yes,7568,1,Contest reward verification,You've won! Pay verification fee to claim reward.,No
+Random Name,2944,17:28,No,540,0,Verification fee,Complete verification by accepting this request.,Yes
+Official Bank,8086,11:50,Yes,6759,2,Subscription renewal,Renew your subscription to continue services.,No
+Random Name,10107,22:24,Yes,7066,1,Contest reward verification,You've won! Pay verification fee to claim reward.,Yes
+Official Bank,17873,10:22,No,3112,4,Subscription renewal,Renew your subscription to continue services.,No
+Official Bank,6545,11:55,No,1225,5,Verification fee,Complete verification by accepting this request.,No
+Random Name,7627,18:05,No,8706,1,Subscription renewal,Renew your subscription to continue services.,No
+Official Bank,18288,13:32,No,4992,3,Refund of failed transaction,You are eligible for a refund. Please accept the request.,No
+Official Bank,14253,13:04,Yes,1582,3,Verification fee,Complete verification by accepting this request.,No
+Random Name,14214,19:08,Yes,1595,1,Refund of failed transaction,You are eligible for a refund. Please accept the request.,Yes
+Official Bank,19821,12:45,No,1538,2,Insurance payment,Reminder: Insurance premium due today.,No
+Government Org,9487,11:02,Yes,2401,2,Subscription renewal,Renew your subscription to continue services.,No
+Unknown Name,7662,16:26,No,3209,0,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,Yes
+Random Name,5159,18:52,No,2626,1,Verification fee,Complete verification by accepting this request.,Yes
+Official Bank,14076,11:16,No,4527,1,Verification fee,Complete verification by accepting this request.,No
+Random Name,18167,19:57,Yes,7681,0,Contest reward verification,You've won! Pay verification fee to claim reward.,Yes
+Random Name,3675,16:01,Yes,3292,0,Urgent help needed,"Please send money urgently, it's an emergency.",Yes
+Official Bank,18896,10:21,No,6893,3,Loan repayment,Monthly loan installment pending. Kindly send the amount.,No
+UPI App Support,15996,10:21,Yes,9465,3,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Official Bank,16429,11:17,Yes,8121,3,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Official Bank,16653,12:10,No,4385,5,Refund of failed transaction,You are eligible for a refund. Please accept the request.,No
+Unknown Name,6840,21:18,No,7920,1,Contest reward verification,You've won! Pay verification fee to claim reward.,No
+Random Name,3713,21:06,No,5964,0,Subscription renewal,Renew your subscription to continue services.,No
+Official Bank,11813,13:27,Yes,9747,4,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Official Bank,16533,13:41,No,7763,4,Insurance payment,Reminder: Insurance premium due today.,No
+Random Name,8113,22:03,Yes,7396,0,Verification fee,Complete verification by accepting this request.,Yes
+Random Name,1735,21:33,Yes,7380,0,Urgent help needed,"Please send money urgently, it's an emergency.",No
+Random Name,15681,20:54,No,6793,1,Loan repayment,Monthly loan installment pending. Kindly send the amount.,Yes
+Official Bank,4384,11:46,No,8166,0,Subscription renewal,Renew your subscription to continue services.,No
+Random Name,13308,17:09,No,8340,0,Refund of failed transaction,You are eligible for a refund. Please accept the request.,Yes
+Random Name,18710,16:52,No,9424,0,Loan repayment,Monthly loan installment pending. Kindly send the amount.,Yes
+Random Name,7593,19:34,Yes,2422,1,Loan repayment,Monthly loan installment pending. Kindly send the amount.,Yes
+Random Name,8192,18:34,Yes,4672,1,Verification fee,Complete verification by accepting this request.,Yes
+Unknown Name,6121,22:50,No,9909,1,Subscription renewal,Renew your subscription to continue services.,No
+Unknown Name,13260,19:40,Yes,9310,1,Refund of failed transaction,You are eligible for a refund. Please accept the request.,Yes
+Official Bank,8549,10:07,Yes,6913,0,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Random Name,17024,20:57,Yes,8885,1,Contest reward verification,You've won! Pay verification fee to claim reward.,Yes
+Official Bank,6583,10:57,Yes,9354,0,Loan repayment,Monthly loan installment pending. Kindly send the amount.,No
+Unknown Name,1828,20:27,No,1309,1,Verification fee,Complete verification by accepting this request.,Yes
+Random Name,16144,18:12,Yes,5798,0,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,Yes
+Random Name,10678,21:24,No,4727,0,Subscription renewal,Renew your subscription to continue services.,Yes
+Official Bank,14377,10:18,No,5361,4,Urgent help needed,"Please send money urgently, it's an emergency.",No
+Random Name,15840,19:28,No,604,0,Insurance payment,Reminder: Insurance premium due today.,Yes
+Random Name,9779,18:52,Yes,1019,1,Verification fee,Complete verification by accepting this request.,Yes
+Official Bank,11352,10:20,Yes,9398,3,Urgent help needed,"Please send money urgently, it's an emergency.",No
+Unknown Name,11526,16:23,Yes,9301,1,Urgent help needed,"Please send money urgently, it's an emergency.",Yes
+Unknown Name,263,20:44,No,2211,1,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Random Name,10114,20:27,Yes,2230,1,Refund of failed transaction,You are eligible for a refund. Please accept the request.,Yes
+Unknown Name,9526,18:03,No,2825,0,Verification fee,Complete verification by accepting this request.,Yes
+Unknown Name,10409,21:37,No,4666,0,Urgent help needed,"Please send money urgently, it's an emergency.",Yes
+UPI App Support,10234,12:16,No,5147,0,Verification fee,Complete verification by accepting this request.,No
+Official Bank,19233,13:02,Yes,3463,2,Verification fee,Complete verification by accepting this request.,No
+Unknown Name,5616,19:00,Yes,4552,0,Loan repayment,Monthly loan installment pending. Kindly send the amount.,Yes
+Official Bank,9145,13:02,Yes,3167,5,Insurance payment,Reminder: Insurance premium due today.,No
+Unknown Name,10707,22:27,No,9007,0,Subscription renewal,Renew your subscription to continue services.,Yes
+Unknown Name,9938,18:49,No,1279,0,Refund of failed transaction,You are eligible for a refund. Please accept the request.,Yes
+Government Org,18746,11:35,Yes,2747,0,Verification fee,Complete verification by accepting this request.,No
+Official Bank,3817,11:11,No,9766,3,Subscription renewal,Renew your subscription to continue services.,No
+Random Name,74,22:00,No,5173,0,Refund of failed transaction,You are eligible for a refund. Please accept the request.,No
+Random Name,7999,17:07,Yes,6329,1,Contest reward verification,You've won! Pay verification fee to claim reward.,Yes
+Random Name,13904,18:37,No,2543,0,Urgent help needed,"Please send money urgently, it's an emergency.",Yes
+Random Name,10181,22:05,No,7189,1,Urgent help needed,"Please send money urgently, it's an emergency.",Yes
+Unknown Name,5958,21:21,No,6446,1,Subscription renewal,Renew your subscription to continue services.,No
+Official Bank,19252,13:28,No,1379,2,Loan repayment,Monthly loan installment pending. Kindly send the amount.,No
+Unknown Name,2407,17:21,Yes,6628,0,Verification fee,Complete verification by accepting this request.,No
+Random Name,3265,22:15,Yes,6197,1,Verification fee,Complete verification by accepting this request.,No
+Unknown Name,9204,17:31,No,5757,0,Subscription renewal,Renew your subscription to continue services.,Yes
+Unknown Name,4662,16:18,Yes,7193,0,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Official Bank,11282,13:35,No,2437,5,Verification fee,Complete verification by accepting this request.,No
+Official Bank,9109,10:03,Yes,2443,3,Urgent help needed,"Please send money urgently, it's an emergency.",No
+Unknown Name,12754,19:48,Yes,1183,0,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,Yes
+Official Bank,1819,13:32,Yes,884,4,Refund of failed transaction,You are eligible for a refund. Please accept the request.,No
+Unknown Name,12234,17:13,No,4108,0,Subscription renewal,Renew your subscription to continue services.,Yes
+Unknown Name,1928,16:20,No,7013,0,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Random Name,3587,21:43,Yes,6411,0,Insurance payment,Reminder: Insurance premium due today.,No
+Random Name,5783,19:24,No,3529,0,Loan repayment,Monthly loan installment pending. Kindly send the amount.,Yes
+Official Bank,8149,10:23,Yes,9334,3,Urgent help needed,"Please send money urgently, it's an emergency.",No
+Government Org,17169,13:08,Yes,8407,1,Contest reward verification,You've won! Pay verification fee to claim reward.,No
+UPI App Support,5273,12:06,No,3546,5,Subscription renewal,Renew your subscription to continue services.,No
+Unknown Name,5536,22:21,Yes,5268,0,Contest reward verification,You've won! Pay verification fee to claim reward.,Yes
+Random Name,4410,22:56,No,1734,1,Subscription renewal,Renew your subscription to continue services.,Yes
+UPI App Support,12507,10:39,No,2236,3,Verification fee,Complete verification by accepting this request.,No
+Official Bank,8364,11:15,No,5778,0,Refund of failed transaction,You are eligible for a refund. Please accept the request.,No
+Random Name,10168,20:47,Yes,5652,0,Contest reward verification,You've won! Pay verification fee to claim reward.,Yes
+Random Name,6613,22:45,No,6482,0,Contest reward verification,You've won! Pay verification fee to claim reward.,Yes
+Government Org,4703,11:15,No,1136,1,Contest reward verification,You've won! Pay verification fee to claim reward.,No
+Official Bank,5810,11:52,Yes,3956,4,Insurance payment,Reminder: Insurance premium due today.,No
+Unknown Name,7657,22:02,Yes,2889,1,Insurance payment,Reminder: Insurance premium due today.,Yes
+Government Org,17582,13:32,Yes,1351,2,Contest reward verification,You've won! Pay verification fee to claim reward.,No
+Random Name,14604,17:22,No,7446,0,Subscription renewal,Renew your subscription to continue services.,Yes
+Random Name,12383,18:24,Yes,2690,0,Insurance payment,Reminder: Insurance premium due today.,Yes
+Unknown Name,14692,22:47,No,4000,0,Loan repayment,Monthly loan installment pending. Kindly send the amount.,Yes
+Random Name,18392,16:14,Yes,9063,0,Contest reward verification,You've won! Pay verification fee to claim reward.,Yes
+Random Name,13468,22:35,No,7613,0,Subscription renewal,Renew your subscription to continue services.,Yes
+Official Bank,310,12:07,No,846,2,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Official Bank,8192,11:00,No,3252,1,Subscription renewal,Renew your subscription to continue services.,No
+Official Bank,3023,13:42,No,1539,5,Subscription renewal,Renew your subscription to continue services.,No
+Unknown Name,2946,17:53,Yes,7026,0,Loan repayment,Monthly loan installment pending. Kindly send the amount.,No
+Official Bank,3710,11:46,No,3584,3,Loan repayment,Monthly loan installment pending. Kindly send the amount.,No
+Random Name,2083,21:54,No,5334,0,Urgent help needed,"Please send money urgently, it's an emergency.",No
+Random Name,10202,19:31,No,7736,1,Subscription renewal,Renew your subscription to continue services.,Yes
+Random Name,19680,17:20,No,1480,0,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,Yes
+Government Org,11938,13:18,Yes,3249,2,Subscription renewal,Renew your subscription to continue services.,No
+Random Name,19363,20:38,No,949,0,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,Yes
+Random Name,2071,18:39,Yes,1310,0,Insurance payment,Reminder: Insurance premium due today.,Yes
+Official Bank,68,11:07,Yes,9733,5,Verification fee,Complete verification by accepting this request.,No
+Unknown Name,4853,20:20,Yes,3257,0,Refund of failed transaction,You are eligible for a refund. Please accept the request.,Yes
+Random Name,14235,20:36,Yes,1631,0,Urgent help needed,"Please send money urgently, it's an emergency.",Yes
+Random Name,10523,20:43,No,9979,1,Loan repayment,Monthly loan installment pending. Kindly send the amount.,Yes
+Random Name,16131,17:07,No,8855,0,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,Yes
+Random Name,11530,16:15,No,9526,0,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,Yes
+Official Bank,16658,12:49,No,7202,1,Subscription renewal,Renew your subscription to continue services.,No
+Random Name,5929,22:47,Yes,7468,0,Refund of failed transaction,You are eligible for a refund. Please accept the request.,No
+Official Bank,2820,10:32,No,1819,2,Verification fee,Complete verification by accepting this request.,No
+Official Bank,11928,13:43,No,9486,0,Refund of failed transaction,You are eligible for a refund. Please accept the request.,No
+Random Name,16811,20:15,Yes,7691,0,Insurance payment,Reminder: Insurance premium due today.,Yes
+Unknown Name,14372,20:59,No,991,1,Loan repayment,Monthly loan installment pending. Kindly send the amount.,Yes
+Official Bank,4019,13:39,No,4591,2,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Official Bank,10479,13:58,Yes,9966,5,Verification fee,Complete verification by accepting this request.,No
+UPI App Support,19908,11:59,Yes,9450,2,Contest reward verification,You've won! Pay verification fee to claim reward.,No
+Random Name,9283,20:17,Yes,6012,0,Loan repayment,Monthly loan installment pending. Kindly send the amount.,Yes
+Government Org,13942,11:56,No,5625,0,Subscription renewal,Renew your subscription to continue services.,No
+Unknown Name,7996,19:13,Yes,8790,1,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Official Bank,14467,12:57,No,5505,3,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Government Org,16173,11:51,No,3808,2,Refund of failed transaction,You are eligible for a refund. Please accept the request.,No
+UPI App Support,1122,13:35,No,7333,5,Insurance payment,Reminder: Insurance premium due today.,No
+Government Org,3072,12:25,Yes,6554,3,Refund of failed transaction,You are eligible for a refund. Please accept the request.,No
+Unknown Name,9124,22:39,No,1021,0,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,Yes
+Government Org,18018,12:18,No,9264,5,Verification fee,Complete verification by accepting this request.,No
+Unknown Name,8489,20:44,No,4279,0,Insurance payment,Reminder: Insurance premium due today.,Yes
+Unknown Name,1745,16:30,Yes,5193,0,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Government Org,16380,13:51,Yes,1499,4,Refund of failed transaction,You are eligible for a refund. Please accept the request.,No
+Official Bank,4259,11:22,No,6316,5,Insurance payment,Reminder: Insurance premium due today.,No
+Random Name,6053,18:12,No,3646,0,Loan repayment,Monthly loan installment pending. Kindly send the amount.,Yes
+Random Name,9969,20:57,Yes,2679,0,Contest reward verification,You've won! Pay verification fee to claim reward.,Yes
+UPI App Support,2601,11:57,Yes,9652,0,Refund of failed transaction,You are eligible for a refund. Please accept the request.,No
+Official Bank,14887,11:49,Yes,2562,5,Subscription renewal,Renew your subscription to continue services.,No
+Random Name,15735,21:02,No,1397,0,Contest reward verification,You've won! Pay verification fee to claim reward.,Yes
+UPI App Support,10020,11:05,No,3961,4,Insurance payment,Reminder: Insurance premium due today.,No
+Official Bank,8633,11:54,No,4851,5,Subscription renewal,Renew your subscription to continue services.,No
+Government Org,9179,12:33,Yes,9898,2,Urgent help needed,"Please send money urgently, it's an emergency.",No
+Unknown Name,17138,19:05,No,1858,1,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,Yes
+Government Org,202,13:43,Yes,9534,1,Loan repayment,Monthly loan installment pending. Kindly send the amount.,No
+Random Name,16231,22:59,Yes,3091,1,Urgent help needed,"Please send money urgently, it's an emergency.",Yes
+Unknown Name,14433,22:04,Yes,1472,0,Loan repayment,Monthly loan installment pending. Kindly send the amount.,Yes
+Official Bank,17787,12:52,Yes,7517,5,Refund of failed transaction,You are eligible for a refund. Please accept the request.,No
+Unknown Name,9980,19:21,No,6990,0,Contest reward verification,You've won! Pay verification fee to claim reward.,Yes
+Government Org,2995,13:45,Yes,6171,1,Urgent help needed,"Please send money urgently, it's an emergency.",No
+Random Name,4498,16:27,Yes,2594,0,Subscription renewal,Renew your subscription to continue services.,Yes
+Government Org,2928,11:12,No,8337,1,Insurance payment,Reminder: Insurance premium due today.,No
+Government Org,15657,11:33,Yes,8687,1,Subscription renewal,Renew your subscription to continue services.,No
+Random Name,10226,18:03,No,2103,0,Contest reward verification,You've won! Pay verification fee to claim reward.,Yes
+Random Name,1002,19:07,No,5242,1,Electricity bill,Electricity bill due. Pay now to avoid disconnection.,No
+Random Name,3723,18:02,No,4242,1,Subscription renewal,Renew your subscription to continue services.,No
